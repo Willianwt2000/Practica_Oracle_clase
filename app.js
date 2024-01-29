@@ -20,6 +20,7 @@ function guardarDatos(datos) {
     try {
         fs.writeFileSync(jsonFilePath, JSON.stringify(datos, null, 2), 'utf-8');
         console.log('Datos guardados exitosamente.');
+        console.log('Bien hecho usuario bien hecho')
     } catch (error) {
         console.error('Error al guardar los datos:', error.message);
     }
