@@ -21,8 +21,6 @@ function guardarDatos(datos) {
         fs.writeFileSync(jsonFilePath, JSON.stringify(datos, null, 2), 'utf-8');
         console.log('Datos guardados exitosamente.');
     } catch (error) {
-
-        console.log('hola mudo')
         console.error('Error al guardar los datos:', error.message);
     }
 }
