@@ -1,0 +1,22 @@
+{
+  "saludar": true,
+  "hora": true,
+  "ayuda": true,
+  "nuevoComando": true,
+  "hola": true,
+  "como estas?": true,
+  "espero que bien": true,
+  "te extrano": true,
+  "quien te creo?": true,
+  "eres muy bueno": true,
+  "en entregarme todas las informaciones que tienes": true,
+  "bueno bueno": true,
+  "nuevoValor": "juan carlos",
+  "nombre": "willian",
+  "apellido": "metelien",
+  "usuario": {
+    "direccion": "el progreso",
+    "telefoto": 8294459111,
+    "casa": "#5"
+  }
+}
